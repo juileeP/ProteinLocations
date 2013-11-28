@@ -1,8 +1,11 @@
-ProteinLocations
+Database of Protein Locations
 ================
 
+Author: Juilee Patankar
 
-A Database of Protein Locations, combined together from different sources. 
+
+
+A Database of Protein Locations, combined together from different Protein information sources. 
 
 
 1. Scripts to extract Protein information from databases like UniRef, HPRD, SUBA, etc. 
